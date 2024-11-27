@@ -8,3 +8,7 @@ normal
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] make a task
+- [ ] do a task
+- [ ] check off a task
